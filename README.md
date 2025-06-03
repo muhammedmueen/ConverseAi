@@ -32,7 +32,7 @@ A smart, voice-activated personal assistant developed as a **college mini projec
 2. Add your Gemini API key in the script.
 3. Run the assistant:
    ```bash
-   python main.py
+   python converse.py
    ```
 ## 🗂️ Voice Commands Supported
 
