@@ -15,6 +15,13 @@ A smart, voice-activated personal assistant developed as a **college mini projec
 - 🌐 Offline and online capabilities
 - 🖥️ Intuitive GUI built with Tkinter
 
+## 📁 Folder Structure
+  project-root/
+├── main.py
+├── README.md
+├── Requirements.txt
+├── conversation_history.txt
+└── ...
 
 ## 🚀 How to Run
 
